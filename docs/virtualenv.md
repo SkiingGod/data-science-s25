@@ -4,7 +4,7 @@ Virtuelle Umgebungen (virtual environments) ermöglichen es, abhängige Biblioth
 
 ## Installation von virtualenv
 
-Falls die BIbliothek `virtualenv` noch nicht installiert ist, kannst du es mit pip nachinstallieren:
+Falls die BIbliothek `virtualenv` noch nicht installiert ist, kannst du es mit pip nachinstallieren (Am Macbook mit Python 3 oder höher pip3 install ..., hier geht pip nicht):
 
 ```bash
 pip install virtualenv
